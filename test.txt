@@ -1,0 +1,4 @@
+My Aadhaar number is 1234 5678 9012
+PAN: ABCDE1234F
+Phone: +919876543210
+Email: test@example.com
